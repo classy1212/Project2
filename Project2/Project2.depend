@@ -1,0 +1,34 @@
+# depslib dependency file v1.0
+1703011573 source:c:\users\sisyphus\downloads\project2\avltree.cpp
+	"AVLTree.h"
+
+1703029140 c:\users\sisyphus\downloads\project2\avltree.h
+	<string>
+
+1702943923 source:c:\users\sisyphus\downloads\project2\datagenerator.cpp
+	"DataGenerator.h"
+
+1702943923 c:\users\sisyphus\downloads\project2\datagenerator.h
+	<string>
+
+1703028530 source:c:\users\sisyphus\downloads\project2\main.cpp
+	<bits/stdc++.h>
+	"AVLTree.h"
+	"BST.h"
+
+1703029140 c:\users\sisyphus\downloads\project2\bst.h
+	<string>
+
+1702943923 c:\users\sisyphus\downloads\project2\performancetest.h
+	<string>
+
+1702944193 source:c:\users\sisyphus\downloads\project2\performancetest.cpp
+	"PerformanceTest.h"
+	"AVLTree.h"
+	"BST.h"
+	<chrono>
+	<iostream>
+
+1703011573 source:c:\users\sisyphus\downloads\project2\bst.cpp
+	"BST.h"
+
